@@ -6,7 +6,10 @@ public class test {
         new SimpleFormatter();
 
         System.out.println("sd");
-
+             System.out.println("sd");
+             System.out.println("sd");
+             System.out.println("sd");
+        
     }
 
 }
